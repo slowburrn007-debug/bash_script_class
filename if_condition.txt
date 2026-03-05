@@ -1,0 +1,8 @@
+if [[ condition ]]
+then
+    <command>
+fi
+
+if [[ condition ]];then
+    <command>
+fi
