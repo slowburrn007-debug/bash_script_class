@@ -1,0 +1,7 @@
+function funtion_name() {
+    your_commands
+}
+
+function_name() {
+    your_commands
+}
